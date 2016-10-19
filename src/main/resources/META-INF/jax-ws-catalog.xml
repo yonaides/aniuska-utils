@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
-    <system systemId="http://ensprlinux:8001/WsAuthActiveDirectoryServiceService/WsAuthActiveDirectoryService?wsdl" uri="wsdl/ensprlinux_8001/WsAuthActiveDirectoryServiceService/WsAuthActiveDirectoryService.wsdl"/>
-    <system systemId="http://ensprlinux:8001/WsAuthActiveDirectoryServiceService/WsAuthActiveDirectoryService?xsd=1" uri="wsdl/ensprlinux_8001/WsAuthActiveDirectoryServiceService/WsAuthActiveDirectoryService.xsd_1.xsd"/>
-</catalog>
